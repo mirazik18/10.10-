@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8" ?> 
+<Class>
+  <Person FullName="" Age="">
+   <FullName>Admin Admin</FullName>
+   <Age>35</Age>
+  
+   <FullName>Admin Admin</FullName>
+   <Age>35</Age>
+</Person>
+
+<Father FullName="" Age="">
+  <FullName>Otec Admina</FullName>
+  <Age>2000</Age>
+
+  <FullName>Otec Admina2</FullName>
+  <Age>2000</Age>
+</Father>
+
+<Mother FullName="" Age="">
+  <FullName>Mat Admina</FullName>
+  <Age>2000</Age>
+
+  <FullName>Mat Admina2</FullName>
+  <Age>2000</Age>
+</Mother>
+
+</Class>
+
+

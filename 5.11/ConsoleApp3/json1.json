@@ -1,0 +1,13 @@
+﻿var Person; 
+	Person = {
+	"Name": "Admin Admin",
+	"Age": 35,
+	"Father": {
+		"Name": "Otec Admina",
+		"Age": 54
+	},
+	"Mother": {
+		"Name": "Mat Admina",
+		"Age": 56
+	}
+}
